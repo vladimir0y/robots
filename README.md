@@ -19,6 +19,11 @@ This repository contains responsive HTML pages with embedded 3D models of NASA M
 - **Model Source**: Sketchfab NASA Perseverance Mars Rover
 - **Model ID**: d6e457fa8b834abca3f22960efdd5d97
 
+### NASA Perseverance Mars Landing 2021
+- **Page URL**: `https://vladimir0y.github.io/robots/perseverance-landing.html`
+- **Model Source**: Sketchfab Perseverance - NASA Mars Landing 2021
+- **Model ID**: c1c94e1f69df45eeae4a0a1d0d27e85b
+
 ## Usage in Articulate Rise
 
 To embed these models in Articulate Rise:
@@ -33,7 +38,7 @@ To embed these models in Articulate Rise:
            allowfullscreen>
    </iframe>
    ```
-3. Replace `[robot-name]` with: `ingenuity`, `curiosity`, or `perseverance`
+3. Replace `[robot-name]` with: `ingenuity`, `curiosity`, `perseverance`, or `perseverance-landing`
 
 ## Features
 
