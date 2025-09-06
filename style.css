@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background-color: #1a1a1a;
+    font-family: Arial, sans-serif;
+}
+
+iframe {
+    width: 100%;
+    height: 100vh;
+    border: none;
+    display: block;
+}
+
+/* Ensure proper loading state */
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Loading indicator (optional) */
+.loading {
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    display: none;
+}
